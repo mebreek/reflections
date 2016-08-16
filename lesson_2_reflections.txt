@@ -6,3 +6,6 @@ How is the stagin area different from the working directory and the repository ?
 Staging area is a conceptual idea.
 working directory is a computer term.
 repository is a git term and it includes the working directory (including the .git folder)
+
+How can you use the staging area to make sure you have one commit per logical change ?
+by using the "add" command you can specifically add the files you want
