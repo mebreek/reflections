@@ -12,3 +12,6 @@ by using the "add" command you can specifically add the files you want
 
 What are some situations when branches would be helpful in keeping your history organized? How would braches help?
 Some situations are: adding new features to the code you're working on, or experimenting or different locales for example
+
+How do the diagrams help you visualize the branch structure
+...
