@@ -1,3 +1,8 @@
 What happens when you initialize a repository ? Why do you need to it ?
 Git creates the folder .git
 this folder is required to save git metadata
+
+How is the stagin area different from the working directory and the repository ?  What value do you think it offers ?
+Staging area is a conceptual idea.
+working directory is a computer term.
+repository is a git term and it includes the working directory (including the .git folder)
