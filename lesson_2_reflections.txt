@@ -6,3 +6,5 @@ How is the stagin area different from the working directory and the repository ?
 Staging area is a conceptual idea.
 working directory is a computer term.
 repository is a git term and it includes the working directory (including the .git folder)
+
+
