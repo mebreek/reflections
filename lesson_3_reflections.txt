@@ -6,3 +6,7 @@ Describe the differences between forks, clones and branches. When would you use 
 Branch is for getting a separate copy of the main copy and mainly is done locally.
 Clone is to make a copy of a repository either locally or remotely.
 Fork is very similar to clone though it's done on GitHub.
+
+How would you collaborate without using Git or GitHub? What would be easier, and would be harder?
+Email attachments would be an alternative. 
+It would be harder to track changes and keeping the version we're collaborating up to date 
